@@ -1,0 +1,12 @@
+
+
+.titleHolder:after {
+    transform: translateX(-50%);
+    content: '';
+    background: #1890ff;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    height: 4px;
+    width: 100px;
+  }
